@@ -1,0 +1,5 @@
+# Iniciar o projeto
+go mod init "nome do projeto"
+
+# PostgreSQL
+go get github.com/lib/pq
